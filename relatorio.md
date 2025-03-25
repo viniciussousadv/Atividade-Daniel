@@ -49,12 +49,13 @@
 # Tamanho das Imagens
 ## Exemplo de saída do docker image ls:
 
-REPOSITORY    TAG       IMAGE ID       CREATED        SIZE
-### nginx         latest    124b44bfc9cc   6 weeks ago    279MB
-### ubuntu        latest    72297848456d   8 weeks ago    117MB
-### mysql         latest    9b9d0aab4860   2 months ago   1.09GB
-### hello-world   latest    7e1a4e2d11e2   2 months ago   20.4kB
-### redis         latest    bd41d55aae1e   2 months ago   173MB
+REPOSITORY    TAG      
+#### IMAGE ID       CREATED        SIZE
+#### nginx         latest    124b44bfc9cc   6 weeks ago    279MB
+#### ubuntu        latest    72297848456d   8 weeks ago    117MB
+#### mysql         latest    9b9d0aab4860   2 months ago   1.09GB
+#### hello-world   latest    7e1a4e2d11e2   2 months ago   20.4kB
+#### redis         latest    bd41d55aae1e   2 months ago   173MB
 
 # Conclusão
 Esta atividade prática demonstra as principais vantagens dos contêineres:
