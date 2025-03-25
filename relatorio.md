@@ -1,16 +1,47 @@
 # Relatório da Atividade Prática de Docker
 
-## Etapa 1: Comandos Básicos
+## Checklist Completo
 
-```bash
-docker run hello-world
-```
+✔️ Verificar versão do Docker
 
-**Resultado:**
-[Descreva o que apareceu no terminal ou inclua screenshot]
+✔️ Criar container hello-world
 
-...
+✔️ Listar imagens locais
 
-## Dificuldades Encontradas
-- Problema com o comando X: [descreva]
-- Solução: [como resolveu]
+✔️ Listar containers
+
+✔️ Executar container Ubuntu interativo
+
+✔️ Listar containers novamente
+
+✔️ Criar servidor web ws1 com Nginx
+
+✔️ Testar servidor ws1 no navegador
+
+✔️ Listar containers e verificar status
+
+✔️ Criar segunda instância ws2
+
+✔️ Listar containers novamente
+
+✔️ Testar segundo servidor ws2
+
+✔️ Tentar acesso remoto
+
+✔️ Parar container ws1
+
+✔️ Testar ws1 parado
+
+✔️ Listar containers e ver status
+
+✔️ Reiniciar ws1
+
+✔️ Testar ws1 reiniciado
+
+✔️ Remover ws1
+
+✔️ Verificar lista de containers
+
+✔️ Verificar tamanho das imagens
+
+✔️ Usar outra imagem do DockerHub
